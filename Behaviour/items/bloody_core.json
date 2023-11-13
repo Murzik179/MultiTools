@@ -1,0 +1,22 @@
+{
+  "format_version": "1.17.41",
+  
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "mt:bloody_core"
+    },
+    "tags": ["crafting_table"],
+    
+    "pattern": [
+      "XYX",
+      "YZY",
+      "XYX"
+    ],
+    "key": {
+      "X": "mt:bloody_diamond",
+      "Y": "mt:blood_bottle",
+      "Z": "minecraft:nether_star"
+    },
+    "result": "mt:bloody_core"
+  }
+}
