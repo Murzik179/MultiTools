@@ -1,0 +1,22 @@
+{
+  "format_version": "1.17.41",
+  
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "mt:netherite_multitool"
+    },
+    "tags": ["crafting_table", "altar"],
+    
+    "pattern": [
+      "XY",
+      "ZW"
+    ],
+    "key": {
+      "X": "minecraft:netherite_pickaxe",
+      "Y": "minecraft:netherite_shovel",
+      "Z": "minecraft:netherite_axe",
+      "W": "minecraft:netherite_hoe"
+    },
+    "result": "mt:netherite_multitool"
+  }
+}

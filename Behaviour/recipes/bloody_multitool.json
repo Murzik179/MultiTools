@@ -1,0 +1,23 @@
+{
+  "format_version": "1.17.41",
+  
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "mt:bloody_multitool"
+    },
+    "tags": ["crafting_table", "altar"],
+    
+    "pattern": [
+      "XYX",
+      "ZWZ",
+      "XYX"
+    ],
+    "key": {
+      "X": "minecraft:redstone",
+      "Y": "minecraft:netherite_ingot",
+      "Z": "mt:netherite_multitool",
+      "W": "minecraft:nether_star"
+    },
+    "result": "mt:bloody_multitool"
+  }
+}
