@@ -1,22 +1,16 @@
 {
   "format_version": "1.17.41",
-  
-  "minecraft:recipe_shaped": {
+  "minecraft:recipe_shapeless": {
     "description": {
       "identifier": "mt:iron_multitool"
     },
     "tags": ["crafting_table", "altar"],
-    
-    "pattern": [
-      "XY",
-      "ZW"
+    "ingredients": [
+      "minecraft:iron_pickaxe",
+      "minecraft:iron_shovel",
+      "minecraft:iron_axe",
+      "minecraft:iron_hoe"
     ],
-    "key": {
-      "X": "minecraft:iron_pickaxe",
-      "Y": "minecraft:iron_shovel",
-      "Z": "minecraft:iron_axe",
-      "W": "minecraft:iron_hoe"
-    },
     "result": "mt:iron_multitool"
   }
 }

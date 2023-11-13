@@ -1,22 +1,16 @@
 {
   "format_version": "1.17.41",
-  
-  "minecraft:recipe_shaped": {
+  "minecraft:recipe_shapeless": {
     "description": {
       "identifier": "mt:golden_multitool"
     },
     "tags": ["crafting_table", "altar"],
-    
-    "pattern": [
-      "XY",
-      "ZW"
+    "ingredients": [
+      "minecraft:golden_pickaxe",
+      "minecraft:golden_shovel",
+      "minecraft:golden_axe",
+      "minecraft:golden_hoe"
     ],
-    "key": {
-      "X": "minecraft:golden_pickaxe",
-      "Y": "minecraft:golden_shovel",
-      "Z": "minecraft:golden_axe",
-      "W": "minecraft:golden_hoe"
-    },
     "result": "mt:golden_multitool"
   }
 }

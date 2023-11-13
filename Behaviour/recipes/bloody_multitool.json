@@ -5,18 +5,19 @@
     "description": {
       "identifier": "mt:bloody_multitool"
     },
-    "tags": ["crafting_table", "altar"],
+    "tags": ["crafting_table"],
     
     "pattern": [
       "XYX",
       "ZWZ",
-      "XYX"
+      "XVX"
     ],
     "key": {
-      "X": "minecraft:redstone",
-      "Y": "minecraft:netherite_ingot",
-      "Z": "mt:netherite_multitool",
-      "W": "minecraft:nether_star"
+      "X": "mt:bloody_diamond",
+      "Y": "mt:bloody_upgrade",
+      "Z": "minecraft:nether_star",
+      "W": "mt:netherite_multitool",
+      "V": "mt:bloody_core"
     },
     "result": "mt:bloody_multitool"
   }

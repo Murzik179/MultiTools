@@ -1,0 +1,24 @@
+{
+  "format_version": "1.17.41",
+  
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "mt:bloody_upgrade"
+    },
+    "tags": ["crafting_table"],
+    
+    "pattern": [
+      "XWX",
+      "YZY",
+      "XVX"
+    ],
+    "key": {
+      "X": "mt:bloody_diamond",
+      "Y": "minecraft:netherite_ingot",
+      "Z": "mt:bloody_core",
+      "W": "minecraft:netherite_upgrade_smithing_template",
+      "V": "minecraft:nether_star"
+    },
+    "result": "mt:bloody_upgrade"
+  }
+}
