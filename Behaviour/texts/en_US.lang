@@ -1,0 +1,8 @@
+pack.description=Addon add new tools — multitools, which can be use as pickaxe, shovel, axe, hoe and sword.
+item.mt:wooden_multitool=Wooden Multitool
+item.mt:stone_multitool=Stone Multitool
+item.mt:iron_multitool=Iron Multitool
+item.mt:golden_multitool=Golden Multitool
+item.mt:diamond_multitool=Diamond Multitool
+item.mt:netherite_multitool=Netherite Multitool
+item.mt:bloody_multitool=Bloody Multitool
