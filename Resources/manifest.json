@@ -4,14 +4,14 @@
     "name": "MultiTools | Resources",
     "description": "pack.description",
     "uuid": "c0caf59d-c60d-41f2-b8a1-76eb7496114b",
-    "version": [1, 0, 1],
+    "version": [1, 1, 0],
     "min_engine_version": [1, 18, 0]
   },
   "modules": [
     {
       "type": "resources",
       "uuid": "7ec828dd-d4cc-48ef-8608-0f6da539cc3f",
-      "version": [1, 0, 1]
+      "version": [1, 1, 0]
     }
   ],
   "metadata": {
