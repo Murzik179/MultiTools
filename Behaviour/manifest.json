@@ -4,14 +4,20 @@
     "name": "MultiTools | Behaviour",
     "description": "pack.description",
     "uuid": "7f8c76a4-169a-4e07-a52a-401133303ab1",
-    "version": [1, 0, 0],
+    "version": [1, 0, 1],
     "min_engine_version": [1, 18, 0]
   },
   "modules": [
     {
       "type": "data",
       "uuid": "0ae7e271-b8e6-48c3-aa4f-cc3414885703",
-      "version": [1, 0, 0]
+      "version": [1, 0, 1]
+    }
+  ],
+  "dependencies": [
+    {
+      "uuid": "c0caf59d-c60d-41f2-b8a1-76eb7496114b",
+      "version": [1, 0, 1]
     }
   ],
   "metadata": {
