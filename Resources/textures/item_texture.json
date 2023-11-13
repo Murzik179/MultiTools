@@ -1,0 +1,27 @@
+{
+  "resources_pack_name": "tut",
+  "texture_name": "atlas.items",
+  "texture_data": {
+    "mt:bloody_multitool": {
+      "textures": "textures/items/bloody_multitool"
+    },
+    "mt:netherite_multitool": {
+      "textures": "textures/items/netherite_multitool"
+    },
+    "mt:diamond_multitool": {
+      "textures": "textures/items/diamond_multitool"
+    },
+    "mt:golden_multitool": {
+      "textures": "textures/items/golden_multitool"
+    },
+    "mt:iron_multitool": {
+      "textures": "textures/items/iron_multitool"
+    },
+    "mt:stone_multitool": {
+      "textures": "textures/items/stone_multitool"
+    },
+    "mt:wooden_multitool": {
+      "textures": "textures/items/wooden_multitool"
+    }
+  }
+}
