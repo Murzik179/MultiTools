@@ -1,0 +1,22 @@
+{
+  "format_version": "1.17.41",
+  
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "mt:wooden_multitool"
+    },
+    "tags": ["crafting_table", "altar"],
+    
+    "pattern": [
+      "XY",
+      "ZW"
+    ],
+    "key": {
+      "X": "minecraft:wooden_pickaxe",
+      "Y": "minecraft:wooden_shovel",
+      "Z": "minecraft:wooden_axe",
+      "W": "minecraft:wooden_hoe"
+    },
+    "result": "mt:wooden_multitool"
+  }
+}
