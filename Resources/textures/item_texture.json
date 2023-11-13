@@ -22,6 +22,18 @@
     },
     "mt:wooden_multitool": {
       "textures": "textures/items/wooden_multitool"
+    },
+    "mt:blood_bottle": {
+      "textures": "textures/items/blood_bottle"
+    },
+    "mt:bloody_upgrade": {
+      "textures": "textures/items/bloody_upgrade"
+    },
+    "mt:bloody_diamond": {
+      "textures": "textures/items/bloody_diamond"
+    },
+    "mt:bloody_core": {
+      "textures": "textures/items/bloody_core"
     }
   }
 }
