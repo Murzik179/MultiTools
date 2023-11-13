@@ -2254,6 +2254,27 @@
               "event": "durability_update"
             }
           },
+          {
+            "speed": 6,
+            "block": "minecraft:lit_furnace",
+            "on_dig": {
+              "event": "durability_update"
+            }
+          },
+          {
+            "speed": 6,
+            "block": "minecraft:lit_blast_furnace",
+            "on_dig": {
+              "event": "durability_update"
+            }
+          },
+          {
+            "speed": 6,
+            "block": "minecraft:lit_smoker",
+            "on_dig": {
+              "event": "durability_update"
+            }
+          },
           // Axe
           {
             "speed": 6,

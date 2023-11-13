@@ -1764,6 +1764,27 @@
               "event": "durability_update"
             }
           },
+          {
+            "speed": 2,
+            "block": "minecraft:lit_furnace",
+            "on_dig": {
+              "event": "durability_update"
+            }
+          },
+          {
+            "speed": 2,
+            "block": "minecraft:lit_blast_furnace",
+            "on_dig": {
+              "event": "durability_update"
+            }
+          },
+          {
+            "speed": 2,
+            "block": "minecraft:lit_smoker",
+            "on_dig": {
+              "event": "durability_update"
+            }
+          },
           // Axe
           {
             "speed": 2,
@@ -2464,7 +2485,8 @@
       "minecraft:enchantable": {
         "slot": "axe",
         "value": 10
-      }
+      },
+      "minecraft:transformable_items": {}
     },
     "events": {
       "durability_update": {

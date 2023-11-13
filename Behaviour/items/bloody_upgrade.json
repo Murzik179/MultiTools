@@ -1,24 +1,16 @@
 {
-  "format_version": "1.17.41",
-  
-  "minecraft:recipe_shaped": {
+  "format_version": "1.18.0",
+  "minecraft:item": {
     "description": {
-      "identifier": "mt:bloody_upgrade"
+      "identifier": "mt:bloody_upgrade",
+      "category": "items"
     },
-    "tags": ["crafting_table"],
-    
-    "pattern": [
-      "XWX",
-      "YZY",
-      "XVX"
-    ],
-    "key": {
-      "X": "mt:bloody_diamond",
-      "Y": "minecraft:netherite_ingot",
-      "Z": "mt:bloody_core",
-      "W": "minecraft:netherite_upgrade_smithing_template",
-      "V": "minecraft:nether_star"
-    },
-    "result": "mt:bloody_upgrade"
+    "components": {
+      "minecraft:max_stack_size": 64,
+      "minecraft:hand_equipped": false,
+      "minecraft:icon": {
+        "texture": "mt:bloody_upgrade"
+      }
+    }
   }
 }

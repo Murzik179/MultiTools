@@ -1,22 +1,16 @@
 {
-  "format_version": "1.17.41",
-  
-  "minecraft:recipe_shaped": {
+  "format_version": "1.18.0",
+  "minecraft:item": {
     "description": {
-      "identifier": "mt:bloody_diamond"
+      "identifier": "mt:bloody_diamond",
+      "category": "items"
     },
-    "tags": ["crafting_table"],
-    
-    "pattern": [
-      "XYX",
-      "YZY",
-      "XYX"
-    ],
-    "key": {
-      "X": "minecraft:redstone",
-      "Y": "mt:blood_bottle",
-      "Z": "minecraft:diamond"
-    },
-    "result": "mt:bloody_diamond"
+    "components": {
+      "minecraft:max_stack_size": 64,
+      "minecraft:hand_equipped": false,
+      "minecraft:icon": {
+        "texture": "mt:bloody_diamond"
+      }
+    }
   }
 }
