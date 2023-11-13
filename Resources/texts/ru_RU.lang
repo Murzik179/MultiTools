@@ -1,0 +1,8 @@
+pack.description=Аддон добавляет мультиинструменты, которые можно использовать как кирка, лопата, топор, мотыга и меч.
+item.mt:wood_multitool=Деревянный Мультиинструмент
+item.mt:stone_multitool=Каменный Мультиинструмент
+item.mt:iron_multitool=Железный Мультиинструмент
+item.mt:gold_multitool=Золотой Мультиинструмент
+item.mt:diamond_multitool=Алмазный Мультиинструмент
+item.mt:netherite_multitool=Незеритовый Мультиинструмент
+item.mt:bloody_multitool=Кровавый Мультиинструмент
